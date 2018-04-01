@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value = "weather" />
+    <version value = "1" />
+    <list>
+        <mapping class="com.example.acer.network.db.City" />
+        <mapping class="com.example.acer.network.db.County" />
+        <mapping class="com.example.acer.network.db.Province" />
+        </list>
+
+</litepal>
